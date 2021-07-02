@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ART.shower_love.ui.donatereceive.DonateReceiveFragment"
+        android:label="Donate/Receive"
+        tools:layout="@layout/fragment_donate_receive" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.ART.shower_love.ui.about_us.AboutUsFragment"
+        android:label="About Us"
+        tools:layout="@layout/fragment_about_us" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.ART.shower_love.ui.something.SomethingFragment"
+        android:label="Something"
+        tools:layout="@layout/fragment_something"
+        />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.ART.shower_love.ui.setting.SettingFragment"
+        android:label="settings"
+        tools:layout="@layout/fragment_setting" />
+</navigation>

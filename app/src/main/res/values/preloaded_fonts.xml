@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/arima_madurai_black</item>
+        <item>@font/coiny</item>
+        <item>@font/eagle_lake</item>
+    </array>
+</resources>

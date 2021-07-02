@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358060041056",
+    "firebase_url": "https://shower-love.firebaseio.com",
+    "project_id": "shower-love",
+    "storage_bucket": "shower-love.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358060041056:android:55eed4e0ea0ebb90d63405",
+        "android_client_info": {
+          "package_name": "com.ART.shower_love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358060041056-c34nbklnfbn33i1m049d8pl3hp0kf9q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wYYPDXAA-d4RAaFMQc9JrAfFzH6U4XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358060041056-c34nbklnfbn33i1m049d8pl3hp0kf9q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
